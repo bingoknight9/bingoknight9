@@ -1,7 +1,7 @@
-### Hi there 👋
 
-<!--
-**bingoknight9/bingoknight (House + Rock Pop)
+
+
+## bingoknight9/bingoknight (House + Rock Pop)
 
 - I am using this primarily to share and exchange musical files via grouped or individual postings. These files can be used for reworks,
 remixes, and occassionally (with set permission) the sharing of specific samples.
@@ -12,4 +12,3 @@ for collaborative efforts.
 - How to reach me: email (bingoknight9@gmail.com)/IG/Twitter/GitHub interactions
 - I’m looking to collaborate on reworks, original creations, and sound production, feel free to reach out and look out for updates!.
 
--->
